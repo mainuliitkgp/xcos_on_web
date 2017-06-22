@@ -47,6 +47,9 @@ Line 167 : Deleted
 	(scilab_out, scilab_err) = scilab_proc.communicate();
 
 
+Line 114 : Added
+        global kill_scilab
+
 Line 168 : Added
 
 	log_name = "scilab-log-"+pid+".txt"
